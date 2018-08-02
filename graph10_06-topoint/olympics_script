@@ -1,0 +1,25 @@
+ident
+torus
+100 0 0 10 60
+torus
+175 0 50 10 60
+torus
+250 0 0 10 60
+torus
+325 0 50 10 60
+torus
+400 0 0 10 60
+scale
+1.2 1.2 1.2
+rotate
+x 75
+rotate
+y -45
+rotate
+z -20
+move
+65 320 0
+apply
+display
+save
+olympics.png

@@ -1,0 +1,109 @@
+# MIDDLE
+push
+move
+0 100 0
+push
+move
+250 250 0
+rotate
+x 120
+push
+scale
+1.75 1 1
+torus
+-150 0 0 4 20
+torus
+-100 0 0 4 20
+torus
+-50 0 0 4 20
+torus
+0 0 0 4 20
+torus
+50 0 0 4 20
+torus
+100 0 0 4 20
+torus
+150 0 0 4 20
+pop
+pop
+push
+move
+295 250 0
+rotate
+x 30
+push
+scale
+1.75 1 1
+torus
+-150 0 0 4 20
+torus
+-100 0 0 4 20
+torus
+-50 0 0 4 20
+torus
+0 0 0 4 20
+torus
+50 0 0 4 20
+torus
+100 0 0 4 20
+torus
+150 0 0 4 20
+pop
+pop
+pop
+# TOP
+push
+move
+0 -100 0
+push
+move
+210 250 0
+rotate
+x 120
+push
+scale
+1.75 1 1
+torus
+-150 0 0 4 20
+torus
+-100 0 0 4 20
+torus
+-50 0 0 4 20
+torus
+0 0 0 4 20
+torus
+50 0 0 4 20
+torus
+100 0 0 4 20
+torus
+150 0 0 4 20
+pop
+pop
+push
+move
+255 250 0
+rotate
+x 30
+push
+scale
+1.75 1 1
+torus
+-150 0 0 4 20
+torus
+-100 0 0 4 20
+torus
+-50 0 0 4 20
+torus
+0 0 0 4 20
+torus
+50 0 0 4 20
+torus
+100 0 0 4 20
+torus
+150 0 0 4 20
+pop
+pop
+pop
+display
+save
+two_chainz.png

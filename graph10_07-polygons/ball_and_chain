@@ -1,0 +1,54 @@
+sphere
+0 0 0 75
+torus
+75 0 0 4 18
+torus
+90 0 -15 4 18
+torus
+105 0 -30 4 18
+torus
+120 0 -45 4 18
+torus
+135 0 -60 4 18
+torus
+155 0 -70 4 18
+torus
+175 0 -80 4 18
+torus
+195 0 -90 4 18
+torus
+215 0 -100 4 18
+torus
+230 0 -115 4 18
+torus
+240 0 -135 4 18
+torus
+250 0 -155 4 18
+torus
+255 0 -175 4 18
+torus
+255 0 -205 4 18
+torus
+255 0 -235 4 18
+torus
+250 0 -260 4 18
+torus
+240 0 -280 4 18
+torus
+230 0 -300 4 18
+torus
+215 0 -315 4 18
+torus
+195 0 -325 4 18
+torus
+175 0 -335 4 18
+torus
+105 0 -335 12 50
+ident
+move
+150 200 0
+rotate
+x 30
+apply
+save
+ball_and_chain.png

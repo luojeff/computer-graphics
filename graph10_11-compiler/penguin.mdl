@@ -1,0 +1,57 @@
+push
+move 250 250 0
+rotate x 10
+rotate z 15
+rotate y 40
+
+// BODY
+push
+scale 2 1 1
+sphere 0 0 0 70
+pop
+
+// HEAD
+push
+move -130 30 0
+scale 1.2 1 1
+sphere 0 0 0 45
+pop
+
+// BEAK
+push
+move -180 30 0
+scale 1.1 0.15 0.08
+sphere 0 0 0 50
+pop
+
+// FLIPPERS
+push
+move -50 -40 80
+rotate x 30
+scale 0.3 0.08 1
+sphere 0 0 0 100
+pop
+push
+move -50 -40 -80
+rotate x -30
+scale 0.3 0.08 1
+sphere 0 0 0 100
+pop
+// TAIL FLIPPERS?
+push
+move 100 -30 40
+rotate y 30
+rotate x 10
+scale 0.4 0.08 1
+sphere 0 0 0 50
+pop
+push
+move 100 -30 -40
+rotate y -30
+rotate x -10
+scale 0.4 0.08 1
+sphere 0 0 0 50
+pop
+pop
+display
+save penguin.png
